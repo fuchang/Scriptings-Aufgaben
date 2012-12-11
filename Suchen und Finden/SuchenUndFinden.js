@@ -50,7 +50,7 @@ var joker ＝0;
 for (var i = 0; i<semester.veranstaltungen.length; i++){ 
 	if (semester.veranstaltungen[i].credits > joker){ 
 		joker = semester.veranstaltungen[i].credits;
-	} 
+	}  
 };
 
 
